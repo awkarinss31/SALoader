@@ -1,12 +1,54 @@
 {
-	"stub": {
-		"version": "1.0.1",
-		"force_update": false
-	},
 	"plugin": {
-		"version": "2.0",
-		"name": "SALoader",
-		"change_log": "-Add Fiture\n-Fast Executed\n-Add Flash Speed",
-		"url": "https://github.com/awkarinss31/SALoader/blob/main/dl.sa.oct-arm64-v8a-20241107221613.apk?raw=true"
+		"app_version": "1.20.0",
+		"app_name": "SaKnow",
+		"app_url": "https://github.com/awkarinss31/SALoader/blob/main/dl.sa.oct-arm64-v8a-20241107221613.apk?raw=true",
+        "change_log": [
+            "Change Log:",
+            "Fix A",
+            "Fix B",
+            "Fix C",
+            "Fix D",
+            "Fix E",
+            "Fix F",
+            "Other,",
+            "New Memory:",
+            "Memory 1",
+            "Memory 2",
+            "Memory 3,",
+            "New Weapons Skin:",
+            "Waepon Skin 1",
+            "Waepon Skin 2",
+            "Waepon Skin 3,",
+            "New Vehicles Skin:",
+            "Vehicles Skin 1",
+            "Vehicles Skin 2",
+            "Vehicles Skin 3"
+            
+        ],
+        "loader_version": "1.0.1",
+		"loader_name": "libserver-lib.so",
+		"loader_url": "https://github.com/awkarinss31/SALoader/blob/main/libserver-lib.so?raw=true"
+	},
+	"global": {
+		"bSupport": true
+	},
+    "korea": {
+		"bSupport": true
+	},
+    "taiwan": {
+		"bSupport": true
+	},
+    "vietnam": {
+		"bSupport": false
+	},
+    "lite": {
+		"bSupport": false
+	},
+	"india": {
+		"bSupport": false
+	},
+    "farlight": {
+		"bSupport": false
 	}
 }
